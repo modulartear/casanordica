@@ -8,6 +8,7 @@ import { whatsappLink } from '@/lib/site'
 const NAV = [
   { href: '#cotizador', label: 'Cotizador' },
   { href: '#cortinas', label: 'Cortinas' },
+  { href: '#otros-productos', label: 'Otros productos' },
   { href: '#como-funciona', label: 'Cómo funciona' },
   { href: '#showroom', label: 'Showroom' },
 ]

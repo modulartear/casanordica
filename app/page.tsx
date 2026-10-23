@@ -2,6 +2,7 @@ import { SiteHeader } from '@/components/site-header'
 import { Hero } from '@/components/hero'
 import { TrustStrip } from '@/components/trust-strip'
 import { Products } from '@/components/products'
+import { OtherProducts } from '@/components/other-products'
 import { Steps } from '@/components/steps'
 import { Workshop } from '@/components/workshop'
 import { Payments } from '@/components/payments'
@@ -18,6 +19,7 @@ export default function Page() {
         <Hero />
         <TrustStrip />
         <Products />
+        <OtherProducts />
         <Steps />
         <Workshop />
         <Payments />
